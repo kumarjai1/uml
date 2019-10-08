@@ -9,7 +9,7 @@ public class TradingMain {
     public void saveTradeDetails() {
     }
 
-    private TradeDal tradeDal;
+    private TradeDAL tradeDal;
 
     private Market marketTemplate;
 }
